@@ -32,4 +32,4 @@ Un fichier image PNG pour le logo (ex: logo.png)
 
 **Date :** Janvier 2026
 
-**Encadré par :** Pr.Mohamed LACHGHAR
+**Encadré par :** Pr.Mohamed LACHGAR
